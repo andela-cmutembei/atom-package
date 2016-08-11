@@ -1,7 +1,7 @@
 {
   "name": "learning-buddy",
   "main": "./lib/learning-buddy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The indispensable tool for life-long learners, right in Atom.",
   "keywords": [
     "learning",
