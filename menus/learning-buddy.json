@@ -1,4 +1,12 @@
 {
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "start learning",
+        "command": "learning-buddy:toggle"
+      }
+    ]
+  },
   "menu": [
     {
       "label": "Packages",
