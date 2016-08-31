@@ -1,0 +1,17 @@
+{
+  "name": "learning-buddy",
+  "main": "./lib/learning-buddy",
+  "version": "0.0.0",
+  "description": "The indispensable tool for life-long learners, right in Atom.",
+  "keywords": ["learning", "tracking", "atom"],
+  "activationCommands": {
+    "atom-workspace": "learning-buddy:toggle"
+  },
+  "repository": "https://github.com/andela-cmutembei/atom-package",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
