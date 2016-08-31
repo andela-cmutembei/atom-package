@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "learning-buddy",
+          "submenu": [
+            {
+              "label": "Track",
+              "command": "learning-buddy:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
